@@ -8,6 +8,10 @@ import java.util.Scanner;
  * to guess letters or words in order to figure out the unknown word.  The
  * player only has six lives and they get subtracted off every time the
  * player guesses the wrong letter or word.
+ * When the entire stick figure is shown, the player loses.
+ * 
+ * Programming Note: This program might be able to be improved by adding
+ * another fun factor like points or extra lives.
  * 
  * Assignment: A01 - Hangman
  * Class: CSIS 2450 Software Engineering
